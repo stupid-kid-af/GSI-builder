@@ -1,4 +1,4 @@
-name: Generic System Image Builder
+name: Generic System Image 
 
 on:
   watch:
